@@ -1,0 +1,4 @@
+While using SVGs in your app, you may be tempted or obliged to use the multiple, different colored versions based on the theme of your app. In a case like this, if your SVG file is consists of single color or element, it is easy to get this job done; but after your file starts to consist of multiple paths with various colors, strokes and strokes colors, 
+it becomes a bit more complicated.
+
+In this article, I will show you how to use a single SVG file with multiple colors and strokes in your app.
